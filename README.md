@@ -1,6 +1,6 @@
 # 🤖  안녕하세요. 저는 이건명 입니다. 🐯
 
-[![Hits](https://hitscounter.dev/badge?url=https%3A%2F%2Fgithub.com%2Fleegunmyeong)](https://hitscounter.dev)
+[![HitCount](https://hits.dwyl.com/leegunmyeong/leegunmyeong.svg?style=flat-square)](http://hits.dwyl.com/leegunmyeong/leegunmyeong)
 
 ### Get in Touch
 
